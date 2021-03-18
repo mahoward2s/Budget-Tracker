@@ -1,0 +1,20 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "Allow people to track their budget online and offline",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahoward2s/Budget-Tracker.git"
+  },
+  "author": "mahoward2s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahoward2s/Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/mahoward2s/Budget-Tracker#readme"
+}
