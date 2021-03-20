@@ -42,5 +42,5 @@ Feel free to fork and improve!
 N/A
 
 ## Questions
-- Mahoward2s: https://github.com/mahoward2s
-- mahoward2s@gmail.com
+- Mahoward2s: [GitHub Portfolio](https://github.com/mahoward2s)
+- Mahoward2s: [email](mahoward2s@gmail.com)
