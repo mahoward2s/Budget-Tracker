@@ -25,7 +25,7 @@ const FILES_TO_CACHE = [
   });
   
   // The activate handler takes care of cleaning up old caches.
-  self.addEventListener('activate', (event) => {
+/*   self.addEventListener('activate', (event) => {
     event.waitUntil(
       caches
         .keys()
@@ -39,12 +39,12 @@ const FILES_TO_CACHE = [
           }))
         })
     );
-  });
+  }); */
   
   self.addEventListener('fetch', (event) => {
     if (event.request.url.includes("/api/")) {
       event.respondWith(
-        caches.open(DATA_CACHE_NAME).then((cachedResponse) => {
+        caches.open(DATA_CACHE_NAME).then((cache) => {
             return fetch(event.request).then((response) => {
                if (response.status === 200) {
                    cache.put(event.request.url, response.clone())
