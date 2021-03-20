@@ -20,6 +20,7 @@
 
 ## Installation
 - Link to Repo:
+[GitHub](https://github.com/mahoward2s/Budget-Tracker)
 
 
 - Link to Launched App:
