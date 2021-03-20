@@ -13,7 +13,7 @@
 - [Questions](#questions)
 
 ## What To Expect:
-![Workout-Tracker](./assets/images/)
+![Budget-Tracker](./assets/images/)
 
 ## Description:
 - As an avid traveller I want to be able to track my withdrawals and deposits with or without a data/internet connection.  So that my account balance is accurate when I am traveling.
