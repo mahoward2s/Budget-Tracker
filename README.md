@@ -27,7 +27,8 @@
 [Heroku]()
 
 ## Usage 
-N/A
+-Node server.js
+-Launch App from Heroku
 
 ## License: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
