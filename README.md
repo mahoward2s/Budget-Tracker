@@ -13,7 +13,7 @@
 - [Questions](#questions)
 
 ## What To Expect:
-![Budget-Tracker](./assets/images/)
+![Budget-Tracker]![image](https://user-images.githubusercontent.com/70785957/112526163-a2f84d00-8d6f-11eb-8645-a72794e729e8.png)
 
 ## Description:
 - As an avid traveller I want to be able to track my withdrawals and deposits with or without a data/internet connection.  So that my account balance is accurate when I am traveling.
@@ -24,7 +24,7 @@
 
 
 - Link to Launched App:
-
+[Heroku]()
 
 ## Usage 
 N/A
